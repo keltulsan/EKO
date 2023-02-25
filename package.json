@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.0.1",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "react-bootstrap": "^2.7.0",
+    "react-collapse": "^5.1.1",
+    "react-markdown": "^8.0.5",
+    "react-responsive-carousel": "^3.2.23",
+    "sequelize": "^6.28.0",
+    "sequelize-auto": "^0.8.8"
+  },
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keltulsan/Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keltulsan/Site/issues"
+  },
+  "homepage": "https://github.com/keltulsan/Site#readme",
+  "description": ""
+}
